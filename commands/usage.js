@@ -23,5 +23,6 @@ module.exports = [
   '  futon document',
   '  futon design',
   '  futon document',
-  '  futon database'
+  '  futon database',
+  '  futon migrate'
 ]);
